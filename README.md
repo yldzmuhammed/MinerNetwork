@@ -1,0 +1,2 @@
+# MinerNetwork
+Madenci çalışma ağı
